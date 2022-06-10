@@ -16,9 +16,11 @@ https://user-images.githubusercontent.com/7799297/173105227-84a76523-8229-4f17-9
   - The application is served on the port 80.
 
 - requirements.txt
+  
 `src/requirements.txt` contains the application dependencies (here, `scikit-learn==1.1.1`, `streamlit==1.10.0`). 
 
 - app.py
+  
 The entry point for the application is `src/app.py`.
 
 # How to run locally
