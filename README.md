@@ -4,7 +4,8 @@ This repository contains an example machine learning application built with the 
 - Streamlit as a machine-learning tooling framework
 
 # Screenshots
-![](./streamlit-app-2022-06-10-17-06-60.webm)
+https://user-images.githubusercontent.com/7799297/173105227-84a76523-8229-4f17-98b4-b08ea30c9fb7.mov
+
 
 # Repository contents
 - Dockerfile
