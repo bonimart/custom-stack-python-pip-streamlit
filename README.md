@@ -10,10 +10,10 @@ https://user-images.githubusercontent.com/7799297/173105227-84a76523-8229-4f17-9
 # Repository contents
 - Dockerfile
 
-The [Dockerfile](./Dockerfile) builds a Docker image for the sample application:
-- The application is run with Python 3.9.13.
-- Any runtime configuration files should be put in the `codenow/config` folder. The `codenow/config/config.yaml` file is an example of configuration file. 
-- The application is served on the port 80.
+  The [Dockerfile](./Dockerfile) builds a Docker image for the sample application:
+  - The application is run with Python 3.9.13.
+  - Any runtime configuration files should be put in the `codenow/config` folder. The `codenow/config/config.yaml` file is an example of configuration file. 
+  - The application is served on the port 80.
 
 - requirements.txt
 `src/requirements.txt` contains the application dependencies (here, `scikit-learn==1.1.1`, `streamlit==1.10.0`). 
