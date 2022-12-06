@@ -10,9 +10,9 @@ build:
     #  value: value3
   pipelines:
     release:
-      pipeline: docker-app-release
+      pipeline: helm-app-release
     preview:
-      pipeline: docker-app-preview
+      pipeline: helm-app-preview
     triggers: []
 runtime:
   endpoints:
